@@ -3,7 +3,7 @@
 
 function loadDoc(){
 
-var showReturn = document.querySelector('.return');
+	var showReturn = document.querySelector('.return');
 // function show() {
     // var test = showReturn.innerHTML = presentation;
 
@@ -32,13 +32,13 @@ xhr.onload = function() {
 		var bla = document.querySelector("#quote");
 		bla.innerHTML = `
 		<ul> 
-			</br>
-			<li>Quote:  ${test.quote}</li>
-			</br>
-			<li> Author:  ${test.author}</li> 
+		</br>
+		<li>Quote:  ${test.quote}</li>
+		</br>
+		<li> Author:  ${test.author}</li> 
 		</ul>`
-		}
-	 } 
+	}
+} 
 
 	 // <img src="${test.photo}">
 // call send
