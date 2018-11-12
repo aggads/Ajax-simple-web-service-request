@@ -11,6 +11,7 @@ Nothing Tested and working perfectly
 Simple exercise to confirm my knowledge and try Ajax requests
 
 *Bootstrap, Css, Js
+
 *Ajax, HTTP Requests and Responses
 
 ## Usage

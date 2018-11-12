@@ -3,6 +3,7 @@
 #quote{
 	
 	font-size: 100%;
+	position: fixed;
 }
 
 .return{
@@ -178,7 +179,7 @@ h1.main-title a:focus{
 }
 
 .link--takiri span {
-	font-size: 40%;
+	font-size: 50%;
     font-weight: 400;
     position: absolute;
     right: 15px;
