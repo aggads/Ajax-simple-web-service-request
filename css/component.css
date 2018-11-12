@@ -145,13 +145,13 @@ h1.main-title a:focus{
 }
 /* Takiri */
 .link--takiri {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Great Vibes', cursive;
     font-weight: 200;
     font-size: 2em;
     padding: 0 10px 20px;
 	-webkit-transition: color 0.5s;
 	transition: color 0.5s;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Great Vibes', cursive;
 }
 
 .link--takiri:hover {
