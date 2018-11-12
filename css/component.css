@@ -123,6 +123,7 @@ p.title {
 }
 h1.main-title a {
     color: #fff;
+    font-family: monospace;
 }
 h1.main-title a:hover{
 	 text-decoration:none;
