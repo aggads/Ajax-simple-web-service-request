@@ -13,9 +13,9 @@ body a {
 	-ms-transition:0.5s all;
 }
 @font-face {
-   font-family: 'GreatVibes-Regular';
-   src: url(../fonts/GreatVibes-Regular.ttf)format('truetype');
-}
+   font-family: 'Open Sans', sans-serif;
+/*   src: url(../fonts/GreatVibes-Regular.ttf)format('truetype');
+*/}
 a:hover{
  text-decoration:none;
 }
@@ -28,7 +28,7 @@ input[type="button"],input[type="submit"],li.parallelogram{
 }
 h1,h2,h3,h4,h5,h6{
    margin:0;		
-   font-family: 'Playfair Display', serif;
+   font-family: 'Open Sans', sans-serif;
    font-weight:400;
 
 }	
@@ -946,7 +946,7 @@ a.play :focus{
 }
 .banner-center h3 {
     font-size: 3em;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
     color: #fff;
     padding: .5em 0;
     font-weight: 700;
@@ -1201,7 +1201,7 @@ h1.title {
        padding: 3.5em 10px 20px;
     -webkit-transition: color 0.5s;
     transition: color 0.5s;
-    font-family: 'Great Vibes', cursive;
+    font-family:'Open Sans', sans-serif;
     padding-left: 0px;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
     text-align: center;
@@ -1224,7 +1224,7 @@ h1.title a{
     display: block;
     margin-left: 14em;
     text-align: center;
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
 /*--testimonials--*/
 .sp-testimonials-title{
@@ -1276,7 +1276,7 @@ h1.title a{
 .sp-testimonials > div p strong {
     font-weight: bold;
     display: block;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
     color: #333;
     margin-bottom: 0.5em;
 	font-size: 1.3em;
