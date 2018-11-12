@@ -5,6 +5,10 @@
 	font-size: 100%;
 }
 
+ul{
+	list-style: none;
+}
+
 button{
   color: #13689E;
 }

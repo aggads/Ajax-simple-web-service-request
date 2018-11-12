@@ -19,8 +19,9 @@ xhr.onload = function() {
 		var bla = document.querySelector("#quote");
 		bla.innerHTML = `
 		<ul> 
-			
-			<li>Quote:  ${test.quote}</li> 
+			</br>
+			<li>Quote:  ${test.quote}</li>
+			</br>
 			<li> Author:  ${test.author}</li> 
 		</ul>`
 		}
