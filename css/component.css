@@ -1,5 +1,7 @@
 /* Header */
-
+body, h1{
+	font-family:'Great Vibes', cursive !important;
+}
 #quote{
 	
 	font-size: 100%;
