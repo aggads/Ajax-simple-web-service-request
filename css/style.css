@@ -1,6 +1,6 @@
 
 html, body{
-  font-family: 'Playfair Display', serif !important;;
+  font-family: cursive;
   font-size: 100%;
   background: #FFf;
 }
@@ -1070,7 +1070,7 @@ textarea {
 p.para1{
   color: #737171;
   line-height: 1.8em;
-  
+
 }
 address {
   width: 100%;
